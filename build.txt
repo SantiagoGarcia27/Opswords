@@ -1,0 +1,4 @@
+displayName = opswords
+author = santipol2728
+version = 0.1
+includePDB = true
